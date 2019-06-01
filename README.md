@@ -30,5 +30,5 @@ python -m unittest discover -p "*_test.py"
 
 To send 100 requests for load testing, please use the following command while in '/src'.
 ```
-python load_test.py
+python load_measure.py
 ```
